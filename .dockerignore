@@ -104,13 +104,12 @@ coverage
 ############################
 # Strapi
 ############################
-
 .env
+.env.prod
+.env.dev
 license.txt
 exports
 *.cache
 dist
 build
 .strapi-updater.json
-.env.prod
-.env.dev
